@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calazarin
 - 👀 I’m interested in software development, speacilly JEE, micro-services, 12-Factor APPs etc.
-- 📫 Feel free to drop me an e-mail: carlos.lazarin.mail@gmail.com
+- 📫 Feel free to drop me an e-mail: carlos.joia.mail@gmail.com
 
 <!---
 calazarin/calazarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
